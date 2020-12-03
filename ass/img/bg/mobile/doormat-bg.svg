@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 360 739.3" style="enable-background:new 0 0 360 739.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+<title>dormat-bg</title>
+<g>
+	<g id="doormat">
+		<g id="bg">
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="180" y1="105.3251" x2="180" y2="844.6503" gradientTransform="matrix(1 0 0 -1 0 844.6503)">
+				<stop  offset="0" style="stop-color:#1B2126"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<path class="st0" d="M0,739.2c0,0,84.5,0.3,170,0c114.5-0.4,190-20.6,190-20.6V0H0V739.2z"/>
+		</g>
+	</g>
+</g>
+</svg>
